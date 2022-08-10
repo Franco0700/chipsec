@@ -13,6 +13,16 @@ First version of CHIPSEC was released in March 2014:
 Recent presentation on how to use CHIPSEC to find vulnerabilities in firmware, hypervisors and hardware configuration, explore low level system assets and even detect firmware implants:
 [Exploring Your System Deeper](https://www.slideshare.net/CanSecWest/csw2017-bazhaniuk-exploringyoursystemdeeperupdated)
 
+Driver Information
+------------------
+
+For instructions on building the driver please refer to our manual: 
+  * [Linux Instructions](https://chipsec.github.io/installation/Install%20in%20Linux.html)
+  * [Windows Instructions](https://chipsec.github.io/installation/Install%20in%20Windows.html)
+  * [UEFI Shell Instructions](https://chipsec.github.io/installation/USB%20with%20UEFI%20Shell.html)
+
+Alternatively you can see if you can find a driver that matches your setup [here](https://github.com/HackingThings/chipsec_drivers)
+
 Release Convention
 ------------------
 
